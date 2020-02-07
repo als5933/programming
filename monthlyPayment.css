@@ -1,0 +1,42 @@
+body {
+    font-family: Georgia, Verdana, serif;
+    background-color: #7FFFD4;
+    margin: 0 auto;
+    width: 670px;
+    padding: 0 2em 1em;
+    border: 5px solid black;
+    border-radius: 20px;
+    background: rbg(220,220,220);
+}
+h1 {
+   color:black;
+	text-align: center;
+   margin-bottom: .5em;
+   
+   
+}
+label {
+   float: left;
+    width: 11em;
+    text-align: right;
+    
+}
+input {
+     margin-left: 1em;
+    margin-bottom: .5em;
+}
+input[text]{
+    border-style: groove;
+}
+span {
+    color: red;
+}
+
+
+.big {
+	font-size:400%;
+	
+}
+.bottom_of_group {
+   margin-bottom: 2em;
+}
